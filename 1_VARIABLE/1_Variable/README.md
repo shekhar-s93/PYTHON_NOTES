@@ -29,7 +29,7 @@ age = 20
 - It means "Shekhar" which is the name of mine is assigned in the 'name' variable, and 20 which is the age of mine are assigned in the 'age' variable.
 
 ## STEP BY STEP PRINT METHOD
-### STEP 1. 
+##### STEP 1. 
 -   Print Only name 
 ```
 print(name)
@@ -39,14 +39,14 @@ print(name)
 ```
 print(age)
 ```
-### STEP 2.
+##### STEP 2.
 -   Print name and age with sentence.
 ```
 print("my name is ", name)
 print("my age is ", age)
 ```
 
-### STEP 3.
+##### STEP 3.
 -   Print in one Line with whole sentence.
 ```
 print("My name is : ", name, "and my age is ", age)
